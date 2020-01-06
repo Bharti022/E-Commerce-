@@ -1,0 +1,32 @@
+{
+    "/catref/*":{
+        "target":"http://localhost:1000",
+        "secure":true
+        
+    },
+    "/subcatref/*":{
+        "target":"http://localhost:1000",
+        "secure":true
+    },
+    "/subsubcatref/*":{
+        "target":"http://localhost:1000",
+        "secure":true
+    },
+    "/prodref/*":{
+        "target":"http://localhost:1000",
+        "secure":true
+    },
+    "/regref/*":{
+        "target":"http://localhost:1000",
+        "secure":true
+    },
+    "/payref/*":{
+        "target":"http://localhost:1000",
+        "secure":true
+    },
+    "/frontref/*":{
+        "target":"http://localhost:1000",
+        "secure":true
+    }
+    
+}
